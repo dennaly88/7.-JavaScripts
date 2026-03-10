@@ -119,27 +119,32 @@ __________________
 ______________________________
 
 
-6.1 - Métodos de Array
-6.2 - Métodos que no modifican el array
-6.3 - ForEach
-6.4 - ForEach vs Map
-6.5 - Filter
-6.6 - Find includes some every
-6.7 - Manipulando strings
-6.8 - Valores y atributos de los objetos
-6.9 - Math y date
+6.1 - Métodos de Array  <br>
+6.2 - Métodos que no modifican el array <br>
+6.3 - ForEach <br>
+6.4 - ForEach vs Map <br>
+6.5 - Filter <br>
+6.6 - Find includes some every <br>
+6.7 - Manipulando strings <br>
+6.8 - Valores y atributos de los objetos <br>
+6.9 - Math y date <br>
 
 
 7. Proyecto final: Sistema de atención al cliente para un restaurante
 _______________________________________________________________________
 
-7.1 - Requerimientos
-7.2 - Ejecución en consola
-7.3 - Listado de productos
-7.4 - Mostrar productos
-7.5 - Multiples archivos JavaScript
-7.6 - Pedir producto
-7.7 - Ver pedido
-7.8 - Calcular costo
-7.9 - Finalizar pedido
-7.10 - Cobrar pedido
+7.1 - Requerimientos <br>
+7.2 - Ejecución en consola <br>
+7.3 - Listado de productos <br>
+7.4 - Mostrar productos <br>
+7.5 - Multiples archivos JavaScript <br>
+7.6 - Pedir producto <br>
+7.7 - Ver pedido <br>
+7.8 - Calcular costo <br>
+7.9 - Finalizar pedido <br>
+7.10 - Cobrar pedido <br>
+
+________________________________________________________________________________________________________________________
+
+
+
