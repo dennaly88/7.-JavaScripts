@@ -51,77 +51,68 @@ ________________________________________________________________________________
 📋 Material Cubierto
 __________________________
 
-1. document.getElementById 
+1. document.getElementById <br>
 
-2. ONFOCUS
+2. ONFOCUS <br>
 
-3. ONBLUR
+3. ONBLUR <br>
 
-4. ONPEN
+4. ONPEN <br>
 
-5. WINDOWS.LOCATION
+5. WINDOWS.LOCATION <br>
 
-6. WINDOWS.OPEN
+6. WINDOWS.OPEN <br>
 
-7. addEventListener
-
-1. ¿Qué es JavaScript? Gratis
-_______________________________
+7. addEventListener <br>
 
 
-1.1 - Bienvenidos al curso
-1.2 - Origen de JavaScript
-1.3 - ECMA
-1.4 - Motor V8
-1.5 - Requerimientos
-1.6 - Escribamos nuestra primera línea de código
 
 
 2. Sintaxis
 __________________
 
-2.1 - Comentarios
-2.2 - Tipos de datos
-2.3 - Tipos de dato objeto
-2.4 - Declaración y Asignación
-2.5 - Asignación por referencia
-2.6 - Constantes
+2.1 - Comentarios <br>
+2.2 - Tipos de datos <br>
+2.3 - Tipos de dato objeto <br>
+2.4 - Declaración y Asignación <br>
+2.5 - Asignación por referencia <br>
+2.6 - Constantes <br>
 
 
 3. Operadores
 __________________
 
-3.1 - Operadores aritméticos
-3.2 - Operadores de asignación
-3.3 - Operadores de concatenación
-3.4 - Operadores de comparación l
-3.5 - Operadores de comparación ll
-3.6 - Operadores Lógicos
-3.7 - Operadores unarios y ternarios
-3.8 - Type coercion
+3.1 - Operadores aritméticos <br>
+3.2 - Operadores de asignación <br>
+3.3 - Operadores de concatenación <br>
+3.4 - Operadores de comparación l <br>
+3.5 - Operadores de comparación ll <br>
+3.6 - Operadores Lógicos <br>
+3.7 - Operadores unarios y ternarios <br>
+3.8 - Type coercion <br>
 
 4. Condicionales y ciclos
 _____________________________
 
-4.1 - Las condicionales
-4.2 - If Else
-4.3 - If Else If
-4.4 - Switch
-4.5 - Ciclo for
-4.6 - Ciclo con for
-4.7 - Ciclo While
+4.1 - Las condicionales <br>
+4.2 - If Else <br>
+4.3 - If Else If <br>
+4.4 - Switch <br>
+4.5 - Ciclo for <br>
+4.6 - Ciclo con for <br>
+4.7 - Ciclo While <br>
 
 5. Funciones
 __________________
 
-5.1 - Sintaxis básica
-5.2 - Parametro
-5.3 - Valores de retorno
-5.4 - Funciones de primera clase
-5.5 - Funciones anónimas
-5.6 - Funciones como constantes
-5.7 - Scope
-5.8 - Funciones flecha
+5.1 - Sintaxis básica <br>
+5.2 - Parametro  <br>
+5.3 - Valores de retorno <br>
+5.4 - Funciones de primera clase <br>
+5.5 - Funciones anónimas <br>
+5.6 - Funciones como constantes <br>
+5.7 - Scope <br>
+5.8 - Funciones flecha <br>
 
 
 6. Colecciones de datos
