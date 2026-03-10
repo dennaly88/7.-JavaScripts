@@ -51,3 +51,104 @@ ________________________________________________________________________________
 📋 Material Cubierto
 __________________________
 
+1. document.getElementById 
+
+2. ONFOCUS
+
+3. ONBLUR
+
+4. ONPEN
+
+5. WINDOWS.LOCATION
+
+6. WINDOWS.OPEN
+
+7. addEventListener
+
+1. ¿Qué es JavaScript? Gratis
+_______________________________
+
+
+1.1 - Bienvenidos al curso
+1.2 - Origen de JavaScript
+1.3 - ECMA
+1.4 - Motor V8
+1.5 - Requerimientos
+1.6 - Escribamos nuestra primera línea de código
+
+
+2. Sintaxis
+__________________
+
+2.1 - Comentarios
+2.2 - Tipos de datos
+2.3 - Tipos de dato objeto
+2.4 - Declaración y Asignación
+2.5 - Asignación por referencia
+2.6 - Constantes
+
+
+3. Operadores
+__________________
+
+3.1 - Operadores aritméticos
+3.2 - Operadores de asignación
+3.3 - Operadores de concatenación
+3.4 - Operadores de comparación l
+3.5 - Operadores de comparación ll
+3.6 - Operadores Lógicos
+3.7 - Operadores unarios y ternarios
+3.8 - Type coercion
+
+4. Condicionales y ciclos
+_____________________________
+
+4.1 - Las condicionales
+4.2 - If Else
+4.3 - If Else If
+4.4 - Switch
+4.5 - Ciclo for
+4.6 - Ciclo con for
+4.7 - Ciclo While
+
+5. Funciones
+__________________
+
+5.1 - Sintaxis básica
+5.2 - Parametro
+5.3 - Valores de retorno
+5.4 - Funciones de primera clase
+5.5 - Funciones anónimas
+5.6 - Funciones como constantes
+5.7 - Scope
+5.8 - Funciones flecha
+
+
+6. Colecciones de datos
+______________________________
+
+
+6.1 - Métodos de Array
+6.2 - Métodos que no modifican el array
+6.3 - ForEach
+6.4 - ForEach vs Map
+6.5 - Filter
+6.6 - Find includes some every
+6.7 - Manipulando strings
+6.8 - Valores y atributos de los objetos
+6.9 - Math y date
+
+
+7. Proyecto final: Sistema de atención al cliente para un restaurante
+_______________________________________________________________________
+
+7.1 - Requerimientos
+7.2 - Ejecución en consola
+7.3 - Listado de productos
+7.4 - Mostrar productos
+7.5 - Multiples archivos JavaScript
+7.6 - Pedir producto
+7.7 - Ver pedido
+7.8 - Calcular costo
+7.9 - Finalizar pedido
+7.10 - Cobrar pedido
