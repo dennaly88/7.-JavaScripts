@@ -1,0 +1,11 @@
+
+
+
+<script>
+	        window.history.pushState("object", "", "../principal.php?usu=5");
+                location.reload()
+</script>
+
+
+
+
